@@ -19,10 +19,10 @@
 3. < Third Feature >
 
 ## Tech used (as many as required)
-1. < Tech >
+1. React.js, HTML, CSS, Figma (UI/UX) 
 2. < Tech >
-3. < Tech >
-4. < Tech >
+3. Google Finance API; NewsAPI 
+4. Machine Learning (PCA Analysis)
 
 ## Link
 - < 3 minute Youtube Video Link for Project Demo >
