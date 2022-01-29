@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: Finformant
-<img src="logos/CityU_Hack_-02.png" width="200" alt="project_logo"/>
+<img src="logos/CityU_Hack_-01.png" width="200" alt="project_logo"/>
 
 ## Team: Capricious
 ## Members
