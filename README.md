@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: Finformant
-<img src="logos/CityU_Hack_-01.png" width="200" alt="project_logo"/>
+<img src="logos/CityU_Hack_-02.png" width="200" alt="project_logo"/>
 
 ## Team: Capricious
 ## Members
@@ -18,9 +18,13 @@ To top it all, a good advisor can easily boost your trading career and fast trac
 
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
-1. < First Feature >
-2. < Second Feature >
-3. < Third Feature >
+### 1. Newsletters
+Trading is an environment where there are countless updates and changes every second. A highly volatile environment asks for a strategy approach that allows you to quickly go  through the strategy process in short cycles and that produces quick results. To achieve this strategy, information is of essence. This can be easily done with our newsletter service. Our newsletter service provides snippets from various online sources. This provides the user with not only the mainstream information from an individual source, but multiple perspective for the user to make their best choice. 
+
+The newsletter in the Home/Search page are places like cards which show what category the news is from, the title of the article, the source and a short description. The user can view the card if the description or keywords is of their interest. Upon clicking the interested Newsletter, the user is shown the full view of the card where you can see the entire article/report for further analysis. The user can also up-vote or down-vote the article, which can help us in the future to know which sources or topics or keywords the user would be interested in. This feature can also be used to know which sources our users prefer and which to be avoided.
+<img src="screenshots/fig1.png" width="200" alt="fig1"/>
+3. < Second Feature >
+4. < Third Feature >
 
 ## Tech used (as many as required)
 1. React.js, HTML, CSS, Figma (UI/UX) 
