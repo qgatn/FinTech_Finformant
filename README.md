@@ -58,6 +58,9 @@ The users can choose an Advisor from our recommendations which will be based on 
     <img src="screenshots/fig3.png" width="fill" alt="fig1">
 </figure>
 
+### 4. Advanced Data Analytics for the average young investor
+The averge investor may not have access to advanced data visualisation and optimisation tools that the pros have. We aim to provide Analytics as a Service in the future where users will be able to use our models such as Anomaly-Detection, Stock Price Prediction, and Portfolio Opimisation for a charged premium.
+
 ## Tech used 
 1. HTML, CSS, JS - (Prototype)
 2. Google Finance API, NewsAPI - (Information Extraction)
