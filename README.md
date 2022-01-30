@@ -66,7 +66,7 @@ The averge investor may not have access to advanced data visualisation and optim
 2. Google Finance API, NewsAPI - (Information Extraction)
 3. FireBase - (RTDB Chatroom)
 4. Figma - (High-Fidelity Prototyping)
-5. Machine Learning - (PCA Analysis)
+5. Google Sheets - Backend Servers
 
 ## Link
 [Link to Video](https://drive.google.com/file/d/1gRjcK05aCZBx-Od4_D019kAzpxhuc1K4/view?usp=sharing)
