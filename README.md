@@ -7,7 +7,7 @@
 - Onasis Melchior Jeyakumar (Leader)
 - Lee Kai Zheng
 - Pranav Gupta
-- < Team Member 4 >
+- Bolisetti Sree Vamsi Krishna
 
 ## Description of the Project (300 words)
 Trading is currently an emerging field be it Stocks, Crypto or any other equity, and has a very high influx. To the extent of its popularity, the trading field is filled with numerous jargons and a plethora of complicated procedures. It takes almost 2 years for a hard-working trader to see the light of success, this leads to a lot of part-time/hobby traders to give up easily. Finformant is here to change this! We want to give everyone the resources and real time updates so that they can be always on their best game. 
